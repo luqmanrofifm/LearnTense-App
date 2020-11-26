@@ -1,0 +1,271 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="label1.Text" xml:space="preserve">
+    <value>1. Agus : Why do you look sad?
+Hasan : Because I… my wallet.
+a. lost
+b. have just lost
+c. am just lost
+d. just lost
+e. will just lost
+
+2. Diana : Will you have lunch with me ?
+Tamara : I’d love to, but I am still full. I… my lunch.
+a. has
+b. have
+c. will have
+d. have had
+e. am having
+
+3. Cindi : I wonder why Miss Intan … yet.
+Putri : I do too. As I know, she is always on time.
+a. hasn’t come
+b. won’t come
+c. didn’t come
+d. havn’t come
+e. isn’t come
+
+4. Our teacher never … England.
+a. visiting
+b. visits
+c. has visited
+d. visited
+e. had visited
+
+5. Rasti … her mother before she came home.
+a. have phoned
+b. phones
+c. has phoned
+d. phoned
+e. had phoned
+
+6. Sinta : Can Joni speak English?
+Budi : May be, he… the English course ten two years.
+a. joined
+b. is joining
+c. will join
+d. has joined
+e. joins
+
+7. The drugs … by Diego, she got influenza.
+a. drinking
+b. has drank
+c. has been drank
+d. have drank
+e. had been drank
+
+8. Kyle … an accident when they had been in Italy.
+a. get
+b. gets
+c. has got
+d. got
+e. had got
+
+9. The police …..  for the robber for two years before they caught him.
+A. were looked
+B. had been looking
+C. were being looked
+D. have been looking
+E. had to be looked
+
+10. “Is the new edition of this book already available?” No, …..
+A. it was printed
+B. it is printing
+C. it is being printed
+D. it has printed
+E. it has been printed
+
+11. “Why were her eyes red?”
+“Because …”.
+A. she has cried
+B. she cries
+C. she had been crying
+D. she is crying
+E. she has been crying
+
+12. “What did he promise you?”
+“… if he wins the lottery”
+A. That he treats me
+B. He treats me
+C. To treat me
+D. I treat him
+E. He should treat me
+
+13. She missed the train. She … earlier.
+A. should be leaving
+B. should leave
+C. must have left
+D. must leave
+E. should have left
+
+14. The teacher has the children … to the passage twice.
+A. have listened
+B. listen
+C. listening
+D. listened
+E. to listen
+
+15. My neighbor is a well … and very successful businessman.
+A. educative
+B. educated
+C. educating
+D. education
+E. educate
+
+16.  “I am sorry I don’t know the answer, but I really wish I …”
+A. had known
+B. know
+C. have known
+D. knew
+E. will know
+
+17. At new year’s eve … continued until early in the morning.
+A. they’re singing and dancing
+B. to sing and to dance
+C. singing and dancing
+D. they sing and dance
+E. song and dance
+
+18. The dishes we had for lunch were all delicious …?
+A. weren’t they
+B. didn’t they
+C. were they
+D. hadn’t they
+E. had they
+
+19. I was interested in … more about your work.
+A. to learning
+B. learn
+C. learned
+D. learning
+E. learning
+
+20. Nurul : … Jane?
+Sintia : “Yes. She is typing a letter in her room now.
+a. Can you see
+b. Did you see
+c. Have you seen
+d. Do you see
+e. Have you ever seen
+
+
+</value>
+  </data>
+</root>

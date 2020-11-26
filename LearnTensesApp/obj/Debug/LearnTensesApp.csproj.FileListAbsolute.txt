@@ -1,0 +1,78 @@
+D:\belajar oop\LearnTensesApp\LearnTensesApp\bin\Debug\LearnTensesApp.exe.config
+D:\belajar oop\LearnTensesApp\LearnTensesApp\bin\Debug\LearnTensesApp.exe
+D:\belajar oop\LearnTensesApp\LearnTensesApp\bin\Debug\LearnTensesApp.pdb
+D:\belajar oop\LearnTensesApp\LearnTensesApp\obj\Debug\LearnTensesApp.csprojAssemblyReference.cache
+D:\belajar oop\LearnTensesApp\LearnTensesApp\obj\Debug\LearnTensesApp.FormUtama.resources
+D:\belajar oop\LearnTensesApp\LearnTensesApp\obj\Debug\LearnTensesApp.Properties.Resources.resources
+D:\belajar oop\LearnTensesApp\LearnTensesApp\obj\Debug\LearnTensesApp.csproj.GenerateResource.cache
+D:\belajar oop\LearnTensesApp\LearnTensesApp\obj\Debug\LearnTensesApp.csproj.CoreCompileInputs.cache
+D:\belajar oop\LearnTensesApp\LearnTensesApp\obj\Debug\LearnTensesApp.exe
+D:\belajar oop\LearnTensesApp\LearnTensesApp\obj\Debug\LearnTensesApp.pdb
+D:\belajar oop\LearnTensesApp\LearnTensesApp\bin\Debug\Newtonsoft.Json.dll
+D:\belajar oop\LearnTensesApp\LearnTensesApp\bin\Debug\RestSharp.dll
+D:\belajar oop\LearnTensesApp\LearnTensesApp\bin\Debug\Newtonsoft.Json.xml
+D:\belajar oop\LearnTensesApp\LearnTensesApp\bin\Debug\RestSharp.xml
+D:\belajar oop\LearnTensesApp\LearnTensesApp\obj\Debug\LearnTensesApp.csproj.CopyComplete
+E:\LearnTensesApp\LearnTensesApp\obj\Debug\LearnTensesApp.csprojAssemblyReference.cache
+E:\LearnTensesApp\LearnTensesApp\obj\Debug\LearnTensesApp.FormUtama.resources
+E:\LearnTensesApp\LearnTensesApp\obj\Debug\LearnTensesApp.Properties.Resources.resources
+E:\LearnTensesApp\LearnTensesApp\obj\Debug\LearnTensesApp.csproj.GenerateResource.cache
+E:\LearnTensesApp\LearnTensesApp\obj\Debug\LearnTensesApp.csproj.CoreCompileInputs.cache
+E:\LearnTensesApp\LearnTensesApp\obj\Debug\LearnTensesApp.exe
+E:\LearnTensesApp\LearnTensesApp\obj\Debug\LearnTensesApp.pdb
+E:\LearnTensesApp\LearnTensesApp\bin\Debug\LearnTensesApp.exe.config
+E:\LearnTensesApp\LearnTensesApp\bin\Debug\LearnTensesApp.exe
+E:\LearnTensesApp\LearnTensesApp\bin\Debug\LearnTensesApp.pdb
+E:\LearnTensesApp\LearnTensesApp\bin\Debug\EntityFramework.dll
+E:\LearnTensesApp\LearnTensesApp\bin\Debug\EntityFramework.SqlServer.dll
+E:\LearnTensesApp\LearnTensesApp\bin\Debug\Newtonsoft.Json.dll
+E:\LearnTensesApp\LearnTensesApp\bin\Debug\RestSharp.dll
+E:\LearnTensesApp\LearnTensesApp\bin\Debug\EntityFramework.xml
+E:\LearnTensesApp\LearnTensesApp\bin\Debug\EntityFramework.SqlServer.xml
+E:\LearnTensesApp\LearnTensesApp\bin\Debug\Newtonsoft.Json.xml
+E:\LearnTensesApp\LearnTensesApp\bin\Debug\RestSharp.xml
+E:\LearnTensesApp\LearnTensesApp\obj\Debug\LearnTensesApp.csproj.CopyComplete
+E:\LearnTensesApp\LearnTensesApp\bin\Debug\KunciJawaban.mdf
+E:\LearnTensesApp\LearnTensesApp\bin\Debug\KunciJawaban_log.ldf
+E:\Luqman Rofif Muntashir_47009\LearnTensesApp\LearnTensesApp\bin\Debug\KunciJawaban.mdf
+E:\Luqman Rofif Muntashir_47009\LearnTensesApp\LearnTensesApp\bin\Debug\KunciJawaban_log.ldf
+E:\Luqman Rofif Muntashir_47009\LearnTensesApp\LearnTensesApp\bin\Debug\LearnTensesApp.exe.config
+E:\Luqman Rofif Muntashir_47009\LearnTensesApp\LearnTensesApp\bin\Debug\LearnTensesApp.exe
+E:\Luqman Rofif Muntashir_47009\LearnTensesApp\LearnTensesApp\bin\Debug\LearnTensesApp.pdb
+E:\Luqman Rofif Muntashir_47009\LearnTensesApp\LearnTensesApp\bin\Debug\EntityFramework.dll
+E:\Luqman Rofif Muntashir_47009\LearnTensesApp\LearnTensesApp\bin\Debug\EntityFramework.SqlServer.dll
+E:\Luqman Rofif Muntashir_47009\LearnTensesApp\LearnTensesApp\bin\Debug\Newtonsoft.Json.dll
+E:\Luqman Rofif Muntashir_47009\LearnTensesApp\LearnTensesApp\bin\Debug\RestSharp.dll
+E:\Luqman Rofif Muntashir_47009\LearnTensesApp\LearnTensesApp\bin\Debug\EntityFramework.xml
+E:\Luqman Rofif Muntashir_47009\LearnTensesApp\LearnTensesApp\bin\Debug\EntityFramework.SqlServer.xml
+E:\Luqman Rofif Muntashir_47009\LearnTensesApp\LearnTensesApp\bin\Debug\Newtonsoft.Json.xml
+E:\Luqman Rofif Muntashir_47009\LearnTensesApp\LearnTensesApp\bin\Debug\RestSharp.xml
+E:\Luqman Rofif Muntashir_47009\LearnTensesApp\LearnTensesApp\obj\Debug\LearnTensesApp.csprojAssemblyReference.cache
+E:\Luqman Rofif Muntashir_47009\LearnTensesApp\LearnTensesApp\obj\Debug\LearnTensesApp.FormUtama.resources
+E:\Luqman Rofif Muntashir_47009\LearnTensesApp\LearnTensesApp\obj\Debug\LearnTensesApp.Properties.Resources.resources
+E:\Luqman Rofif Muntashir_47009\LearnTensesApp\LearnTensesApp\obj\Debug\LearnTensesApp.csproj.GenerateResource.cache
+E:\Luqman Rofif Muntashir_47009\LearnTensesApp\LearnTensesApp\obj\Debug\LearnTensesApp.csproj.CoreCompileInputs.cache
+E:\Luqman Rofif Muntashir_47009\LearnTensesApp\LearnTensesApp\obj\Debug\LearnTensesApp.csproj.CopyComplete
+E:\Luqman Rofif Muntashir_47009\LearnTensesApp\LearnTensesApp\obj\Debug\LearnTensesApp.exe
+E:\Luqman Rofif Muntashir_47009\LearnTensesApp\LearnTensesApp\obj\Debug\LearnTensesApp.pdb
+G:\UGM\KULIAH\Semester 2\Tugas\47009 _Luqman Rofif Muntashir\LearnTensesApp\LearnTensesApp\bin\Debug\KunciJawaban.mdf
+G:\UGM\KULIAH\Semester 2\Tugas\47009 _Luqman Rofif Muntashir\LearnTensesApp\LearnTensesApp\bin\Debug\KunciJawaban_log.ldf
+G:\UGM\KULIAH\Semester 2\Tugas\47009 _Luqman Rofif Muntashir\LearnTensesApp\LearnTensesApp\bin\Debug\LearnTensesApp.exe.config
+G:\UGM\KULIAH\Semester 2\Tugas\47009 _Luqman Rofif Muntashir\LearnTensesApp\LearnTensesApp\bin\Debug\LearnTensesApp.exe
+G:\UGM\KULIAH\Semester 2\Tugas\47009 _Luqman Rofif Muntashir\LearnTensesApp\LearnTensesApp\bin\Debug\LearnTensesApp.pdb
+G:\UGM\KULIAH\Semester 2\Tugas\47009 _Luqman Rofif Muntashir\LearnTensesApp\LearnTensesApp\bin\Debug\EntityFramework.dll
+G:\UGM\KULIAH\Semester 2\Tugas\47009 _Luqman Rofif Muntashir\LearnTensesApp\LearnTensesApp\bin\Debug\EntityFramework.SqlServer.dll
+G:\UGM\KULIAH\Semester 2\Tugas\47009 _Luqman Rofif Muntashir\LearnTensesApp\LearnTensesApp\bin\Debug\Newtonsoft.Json.dll
+G:\UGM\KULIAH\Semester 2\Tugas\47009 _Luqman Rofif Muntashir\LearnTensesApp\LearnTensesApp\bin\Debug\RestSharp.dll
+G:\UGM\KULIAH\Semester 2\Tugas\47009 _Luqman Rofif Muntashir\LearnTensesApp\LearnTensesApp\bin\Debug\EntityFramework.xml
+G:\UGM\KULIAH\Semester 2\Tugas\47009 _Luqman Rofif Muntashir\LearnTensesApp\LearnTensesApp\bin\Debug\EntityFramework.SqlServer.xml
+G:\UGM\KULIAH\Semester 2\Tugas\47009 _Luqman Rofif Muntashir\LearnTensesApp\LearnTensesApp\bin\Debug\Newtonsoft.Json.xml
+G:\UGM\KULIAH\Semester 2\Tugas\47009 _Luqman Rofif Muntashir\LearnTensesApp\LearnTensesApp\bin\Debug\RestSharp.xml
+G:\UGM\KULIAH\Semester 2\Tugas\47009 _Luqman Rofif Muntashir\LearnTensesApp\LearnTensesApp\obj\Debug\LearnTensesApp.csprojAssemblyReference.cache
+G:\UGM\KULIAH\Semester 2\Tugas\47009 _Luqman Rofif Muntashir\LearnTensesApp\LearnTensesApp\obj\Debug\LearnTensesApp.FormUtama.resources
+G:\UGM\KULIAH\Semester 2\Tugas\47009 _Luqman Rofif Muntashir\LearnTensesApp\LearnTensesApp\obj\Debug\LearnTensesApp.Properties.Resources.resources
+G:\UGM\KULIAH\Semester 2\Tugas\47009 _Luqman Rofif Muntashir\LearnTensesApp\LearnTensesApp\obj\Debug\LearnTensesApp.csproj.GenerateResource.cache
+G:\UGM\KULIAH\Semester 2\Tugas\47009 _Luqman Rofif Muntashir\LearnTensesApp\LearnTensesApp\obj\Debug\LearnTensesApp.csproj.CoreCompileInputs.cache
+G:\UGM\KULIAH\Semester 2\Tugas\47009 _Luqman Rofif Muntashir\LearnTensesApp\LearnTensesApp\obj\Debug\LearnTensesApp.csproj.CopyComplete
+G:\UGM\KULIAH\Semester 2\Tugas\47009 _Luqman Rofif Muntashir\LearnTensesApp\LearnTensesApp\obj\Debug\LearnTensesApp.exe
+G:\UGM\KULIAH\Semester 2\Tugas\47009 _Luqman Rofif Muntashir\LearnTensesApp\LearnTensesApp\obj\Debug\LearnTensesApp.pdb
